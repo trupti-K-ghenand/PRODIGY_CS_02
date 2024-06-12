@@ -2,7 +2,7 @@
 # 🖼️ Image Encryption Tool using Pixel Manipulation
 
 ## 📜 Overview
-This project implements a simple image encryption and decryption tool using pixel manipulation. 
+This program implements a simple image encryption and decryption tool using pixel manipulation. 
 The tool allows users to load an image, apply encryption by swapping pixel values based on a user-provided key,
 and then decrypt the image using the same key.
 
