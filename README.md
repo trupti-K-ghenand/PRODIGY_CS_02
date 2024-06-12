@@ -47,7 +47,7 @@ Image encryption is a method of transforming an image to make it unintelligible 
 
 3. **Run the Program:**
    ```bash
-   python `task2_imageEncryption.ipynb`
+   python task2_imageEncryption.ipynb
    ```
 
 4. **Usage Instructions:**
