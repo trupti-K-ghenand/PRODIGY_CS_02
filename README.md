@@ -1,5 +1,6 @@
 # PRODIGY_CS_02
 # 🖼️ Image Encryption Tool using Pixel Manipulation
+Internship Task_02 at Prodigy InfoTech
 
 ## 📜 Overview
 This program implements a simple image encryption and decryption tool using pixel manipulation. 
